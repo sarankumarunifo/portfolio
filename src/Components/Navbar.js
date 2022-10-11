@@ -13,9 +13,6 @@ const Navbar = () => {
     setOpen(!open)
   }
 
-
-
-
   return (
     <div className='header'>
     <Link to="/"> <h1>Portfolio.</h1></Link>
